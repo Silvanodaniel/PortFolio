@@ -1,0 +1,23 @@
+
+
+.cards{
+    display: block;
+    gap: 2rem;
+    border: 2px solid white;
+    color: white;
+    margin-bottom: 2rem;
+    padding: 20px;
+    border-radius: 10px;   
+}
+.cards:hover{
+    border: 3px solid rgb(0, 149, 255);
+   
+}
+.content{
+    display: flex;
+  align-items: center ;
+  gap: 10px;
+}
+.titulo{
+    margin-top: 1rem;
+}

@@ -1,0 +1,26 @@
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.footer{
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    
+    position: static;
+    border-top:2px solid rgb(0, 149, 255);
+    background-color: black;
+}
+.text{
+    margin-top: 1rem;
+    text-align: center;
+    color: white;
+}
+
+
+.span{
+    color: rgb(0, 149, 255);
+
+}
