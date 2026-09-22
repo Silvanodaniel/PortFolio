@@ -15,7 +15,7 @@ export default function About() {
                         de Engenharia Informatica,
                         venho construindo minha
                         trajectoria unindo tecnologia, design e resolução de problemas. <br />
-                        Tenho Desenvolvido copetencias em desenvolvimento Web e projectos utilizando <span>HTML,CSS, JAVASCRIP, REACT,NEXTJS ,NODS MYSQL,PRISMA ORM E DOCKER</span> além de conhecimento em figma e
+                        Tenho Desenvolvido copetencias em desenvolvimento Web e projectos utilizando <span>HTML,CSS, JAVASCRIP, REACT,NEXTJS ,NODS MYSQL,PRISMA ORM E DOCKER Guit, gitHub</span> além de conhecimento em figma e
                         criação de interfaces modernas e responsivas. <br />
                     </p>
 
