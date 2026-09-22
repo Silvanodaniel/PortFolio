@@ -19,7 +19,8 @@ export default function Header(){
                 <nav className={`${style.links} ${menu ? style.mostrarMenu:""}`}>
                     <Link  href={"/"} >Inicio</Link>
                     <Link  href={"/aboutme#sobre"} id={""}>About-me</Link>
-                    <Link  href={"/habilidade#hability"}>Stack</Link>
+                    <Link  href={"/habilidade#hability"} id="">Stack</Link>
+                    
                     <Link className={style.Contacto} href={"/contactos#contact"} id="">Contacto</Link>
                 </nav>
                 
