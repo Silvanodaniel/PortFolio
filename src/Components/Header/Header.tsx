@@ -25,7 +25,7 @@ export default function Header(){
                 </nav>
                 
                 <div className={style.menu} onClick={exibir}>
-                    {menu? <X className={style.Iclouse} size={35} /> :<Menu size={35} className={ style.iMenu}/> }
+                    {menu ? <X className={style.Iclouse} size={35} /> : <Menu size={35} className={ style.iMenu}/> }
                     
                 </div>
 
