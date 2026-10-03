@@ -21,7 +21,7 @@ export default function Header(){
                     <Link  href={"/aboutme#sobre"} id={""}>About-me</Link>
                     <Link  href={"/habilidade#hability"} id="">Stack</Link>
                     
-                    <Link className={style.Contacto} href={"/contactos#contact"} id="">Contacto</Link>
+                    <Link className={style.Contacto} href={"/contactos#contact"} id="">Contactos</Link>
                 </nav>
                 
                 <div className={style.menu} onClick={exibir}>

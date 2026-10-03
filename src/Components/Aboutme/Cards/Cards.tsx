@@ -1,4 +1,5 @@
 import style from"@/Components/Aboutme/Cards/Card.module.css"
+
 interface cards {
     ano: number,
     tecnologia: number,

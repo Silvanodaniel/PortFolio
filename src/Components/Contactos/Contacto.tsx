@@ -14,7 +14,7 @@ export default function Contactos(){
                 </p>
 
                 <div className={style.boxContacto}>
-                    <Link className={style.link} href={""}> <Card icone={<Mail/>} rede={"Emeil"} titulo={"silvanoantoniodaniel@gmail.com"}/> </Link>
+                    <Link className={style.link} href={""}> <Card icone={<Mail/>} rede={"Email"} titulo={"silvanoantoniodaniel@gmail.com"}/> </Link>
                     <Link className={style.link} href={""}> <Card icone={<Mail/>} rede="GuitHub" titulo="Silvano Daniel"/></Link>
                    <Link className={style.link} href={""}><Card icone={<Mail/>} rede="Linkedin" titulo="Silvano Antonio Daniel"/></Link>
                     
